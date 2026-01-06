@@ -1,0 +1,12 @@
+{
+  "name": "microservice-gateway",
+  "version": "1.0.0",
+  "description": "Basic API gateway for microservice architecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
